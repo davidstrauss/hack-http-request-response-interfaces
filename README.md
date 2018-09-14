@@ -9,7 +9,7 @@ change, and we welcome discussion and feedback.
 
 ## Motivation
 
-PSR-7 was designed for PHP, not Hack, and some descisions do not fit smoothly
+PSR-7 was designed for PHP, not Hack, and some decisions do not fit smoothly
 with Hack's type system.
 
 We would like agreement on a standardized interface before releasing v1.0 of
